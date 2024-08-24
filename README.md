@@ -41,3 +41,15 @@ I am using an Array where 0=North, 1=South, 2=East, 3=West
 | Semicolons used  | 0 x -3  |
 | Total lines used | 0 x -3  |
 | Bonus batteries  | 0 x 5   |
+
+### Level 3:
+
+#### Score: 80
+
+| Item             | Value   |
+| ---------------- | ------- |
+| Total moves      | 20 x -1 |
+| Braces used      | 0 x -2  |
+| Semicolons used  | 0 x -3  |
+| Total lines used | 0 x -3  |
+| Bonus batteries  | 0 x 5   |
