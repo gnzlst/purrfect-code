@@ -1,2 +1,27 @@
 # purrfect-code
-Solutions for Google Developers Challenges: Purrfect Code
+
+## Solutions for Google Developers Challenges: Purrfect Code
+
+https://purrfect-code-13ee4.web.app/#game
+
+## The score considers:
+
+- Total moves
+- Braces used
+- Semicolons used
+- Total lines used
+- Bonus batteries
+
+## Results:
+
+### Level 1:
+
+#### Score: 86
+
+| Item             | Value   |
+| ---------------- | ------- |
+| Total moves      | 14 x -1 |
+| Braces used      | 0 x -2  |
+| Semicolons used  | 0 x -3  |
+| Total lines used | 0 x -3  |
+| Bonus batteries  | 0 x 5   |
