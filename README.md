@@ -2,7 +2,9 @@
 
 ## Solutions for Google Developers Challenges: Purrfect Code
 
-https://purrfect-code-13ee4.web.app/#game
+https://developers.google.com/purrfect-code
+
+https://g.dev/gonzalosoto
 
 ## The score considers:
 
@@ -16,9 +18,19 @@ https://purrfect-code-13ee4.web.app/#game
 
 I am using an Array where 0=North, 1=South, 2=East, 3=West
 
+## Badges
+
+| Level | Name               | Badge                                             |
+| ----- | ------------------ | ------------------------------------------------- |
+| 1     | Cat saver          | ![Cat saver](./badges/badge-level-1.svg)          |
+| 2     | Looping master     | ![Looping master](./badges/badge-level-2.svg)     |
+| 3     | Functions hero     | ![Functions hero](./badges/badge-level-3.svg)     |
+| 4     | Conditionals ninja | ![Conditionals ninja](./badges/badge-level-4.svg) |
+| 5     | Javascript legend  | ![Javascript legend](./badges/badge-level-5.svg)  |
+
 ## Results:
 
-### Level 1:
+### Level 1: Cat saver
 
 #### Score: 86
 
@@ -30,7 +42,7 @@ I am using an Array where 0=North, 1=South, 2=East, 3=West
 | Total lines used | 0 x -3  |
 | Bonus batteries  | 0 x 5   |
 
-### Level 2:
+### Level 2: Looping master
 
 #### Score: 88
 
@@ -42,7 +54,7 @@ I am using an Array where 0=North, 1=South, 2=East, 3=West
 | Total lines used | 0 x -3  |
 | Bonus batteries  | 0 x 5   |
 
-### Level 3:
+### Level 3: Functions hero
 
 #### Score: 80
 
@@ -54,7 +66,7 @@ I am using an Array where 0=North, 1=South, 2=East, 3=West
 | Total lines used | 0 x -3  |
 | Bonus batteries  | 0 x 5   |
 
-### Level 4:
+### Level 4: Conditionals ninja
 
 #### Score: 79
 
@@ -66,7 +78,7 @@ I am using an Array where 0=North, 1=South, 2=East, 3=West
 | Total lines used | 0 x -3  |
 | Bonus batteries  | 1 x 5   |
 
-### Level 5:
+### Level 5: Javascript legend
 
 #### Score: 59
 
