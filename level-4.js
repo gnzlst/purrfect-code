@@ -1,1 +1,1 @@
-[2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 1, 1, 1, 1, 1 ].forEach((b) => window["move" + ["North", "South", "East", "West"][b]]()) + activateTeleporter()
+[2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 3, 3, 3, 3, 3, 3, 1, 0, 3, 3, 3, 3, 0].forEach((b) => window["move" + ["North", "South", "East", "West"][b]]()) + activateTeleporter()
